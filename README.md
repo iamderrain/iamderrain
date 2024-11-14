@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derain Carmel IRAMBONA</h1>
-<h3 align="center">A passionate fullstack developper from Burundi</h3>
+<h3 align="center">I'm a passionate self-taught developer and hacker from Burundi</h3>
 
 - 🔭 I’m currently working on **Corporate & Personal project**
 
