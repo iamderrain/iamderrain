@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **REACT,CI/CD,USSD,FLUTTER**
 
-- 💬 Ask me about **CyberSecurity,Computer Science**
+- 💬 Ask me about **CyberSecurity,Computer Science,Spring Boot**
 
 - 📫 How to reach me **derraincarmeli@gmail.com**
 
