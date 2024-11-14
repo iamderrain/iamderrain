@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derain Carmel IRAMBONA</h1>
 <h3 align="center">A passionate fullstack developper from Burundi</h3>
 
-- 🔭 I’m currently working on **Corporate & Personal project **
+- 🔭 I’m currently working on **Corporate & Personal project**
 
 - 🌱 I’m currently learning **REACT,CI/CD,USSD,FLUTTER**
 
