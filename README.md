@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derain Carmel IRAMBONA</h1>
-<h3 align="center">I'm a passionate self-taught developer and hacker from Burundi</h3>
+<h3 align="center">I'm a passionate self-taught developer and IT security from Burundi</h3>
 <p align="center"> <img src="https://flagpedia.net/data/flags/h80/bi.png" alt="Burundi Flag"> </p>
 
 - 🔭 I’m currently working on **Corporate & Personal project**
