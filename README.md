@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Corporate & Personal project**
 
-- 🌱 I’m currently learning **REACT,CI/CD,USSD,FLUTTER**
+- 🌱 I’m currently learning **REACT,CI/CD,USSD,FLUTTER,SaaS**
 
-- 💬 Ask me about **CyberSecurity,Computer Science,Spring Boot**
+- 💬 Ask me about **CyberSecurity,Computer Science**
 
 - 📫 How to reach me **derraincarmeli@gmail.com**
 
